@@ -4,18 +4,8 @@
 graph
     
     Deon[迪恩]
-    CNgirl[中國妹子]
-    Sis[學妹]
-    someBro
-    miyuki[DC小姐姐]
-    tpe[碼頭王]
+    NCUchick[中央妹子管樂社牡羊座I型人格]
 
-    someBro -- 叫迪恩好好照顧學妹--> Deon
-    Deon --不知道為什麼 <br> 會在炸雞店跟人家算數學--> Sis
-    Deon --加了人家IG，還跟人家約泡 <br> 茶--> CNgirl
-    CNgirl --跟迪恩在洗衣房把水弄得到處都是--> Deon
-    Deon --不知道為什麼推薦她加入洞團--> miyuki
-    tpe --因為碎嘴太吵了所以踢掉--> miyuki
-
+    Deon --饞人家身子Ver.2025 <br> 要跟她從桃園機場搭計程車到台中不知道要幹嘛--> NCUchick
 
 ```
