@@ -4,16 +4,13 @@
 graph
     
     Deon[迪恩]
-    Sis[學妹]
-    SisBF[學妹ㄉ捷克男友]
-    SisPR[學妹的老背老目]
-    CNdude[中國仔]
-    
-    Sis -- 想分手 --> SisBF
-    Sis -. 越想越不對勁中 .-> SisBF
-    SisBF -. 同居 .- Sis
-    SisBF -- 英文很爛 --> SisPR
-    CNdude -- 想幹人家 --> Sis
-    Deon --沒幹到人家 <br>不知道在這裡幹嘛--> Sis
+    NCUchick[中央妹子管樂社牡羊座I型人格]
+    Anon[德國愛音]
+
+    Deon --饞人家身子Ver.2025 <br> 要跟她從桃園機場搭計程車到台中不知道要幹嘛--> NCUchick
+    Deon --KiraKira <br> DokiDoki --> Anon
+    Anon -- 我愛木須龍啦 --> Deon
 
 ```
+
+![](MyGO_04__184.jpg)
