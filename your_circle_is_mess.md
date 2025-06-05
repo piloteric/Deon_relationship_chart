@@ -1,16 +1,14 @@
 
+先前的其他女人都被迪恩蛋雕了
 ```mermaid
 
 graph
     
     Deon[迪恩]
-    NCUchick[中央妹子管樂社牡羊座I型人格]
-    Anon[德國愛音]
+    girl2025Q2[Deonnism女主角]
+    
 
-    Deon --饞人家身子Ver.2025 <br> 要跟她從桃園機場搭計程車到台中不知道要幹嘛--> NCUchick
-    Deon --KiraKira <br> DokiDoki --> Anon
-    Anon -- 我愛木須龍啦 --> Deon
+    Deon --每次都一起吃飯然後被迪恩拍照放上discord但都只有胸部以下腰部以上的特寫--> girl2025Q2
+
 
 ```
-
-![](MyGO_04__184.jpg)
